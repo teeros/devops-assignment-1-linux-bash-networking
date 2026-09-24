@@ -1,2 +1,7 @@
 [2026-09-24 18:33:11] disk-check.sh: Checked path=/ threshold=80% usage=7%
 [2026-09-24 18:33:11] disk-check.sh: Result: usage 7% < threshold 80% (OK)
+[2026-09-24 20:33:21] disk-check.sh: Rejected out-of-range threshold: 0
+[2026-09-24 20:33:21] disk-check.sh: Rejected out-of-range threshold: 101
+[2026-09-24 20:33:21] disk-check.sh: Rejected invalid threshold: abc
+[2026-09-24 20:33:21] disk-check.sh: Checked path=/ threshold=100% usage=37%
+[2026-09-24 20:33:21] disk-check.sh: Result: usage 37% < threshold 100% (OK)

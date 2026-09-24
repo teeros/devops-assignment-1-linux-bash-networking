@@ -2,3 +2,10 @@
 [2026-09-24 18:33:11] network-check.sh: Ping to localhost succeeded
 [2026-09-24 18:33:11] network-check.sh: TCP check localhost:22 failed
 [2026-09-24 18:33:11] network-check.sh: Completed check for host=localhost port=22 exit_status=1
+[2026-09-24 20:33:22] network-check.sh: Rejected: missing host argument
+[2026-09-24 20:33:22] network-check.sh: Resolved host localhost -> 127.0.0.1
+[2026-09-24 20:33:22] network-check.sh: Ping to localhost succeeded
+[2026-09-24 20:33:22] network-check.sh: Completed check for host=localhost port=none exit_status=0
+[2026-09-24 20:33:22] network-check.sh: Rejected out-of-range port: 0
+[2026-09-24 20:33:22] network-check.sh: Rejected out-of-range port: 65536
+[2026-09-24 20:33:22] network-check.sh: Rejected non-numeric port: abc
