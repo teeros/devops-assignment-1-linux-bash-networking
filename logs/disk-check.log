@@ -1,0 +1,2 @@
+[2026-09-24 18:33:11] disk-check.sh: Checked path=/ threshold=80% usage=7%
+[2026-09-24 18:33:11] disk-check.sh: Result: usage 7% < threshold 80% (OK)

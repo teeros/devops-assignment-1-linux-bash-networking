@@ -1,0 +1,4 @@
+[2026-09-24 18:33:11] network-check.sh: Resolved host localhost -> ::1
+[2026-09-24 18:33:11] network-check.sh: Ping to localhost succeeded
+[2026-09-24 18:33:11] network-check.sh: TCP check localhost:22 failed
+[2026-09-24 18:33:11] network-check.sh: Completed check for host=localhost port=22 exit_status=1
